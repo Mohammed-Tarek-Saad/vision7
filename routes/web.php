@@ -41,3 +41,6 @@ Route::get('/contact', [RdController::class, 'contact']
 // })->name('contactpage');
 
 // Route::get('/',[MainController::class, 'home'])->name('home');
+
+
+
